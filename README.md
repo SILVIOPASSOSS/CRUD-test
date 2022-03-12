@@ -35,12 +35,13 @@ Utilizar:
     - php artisan ui vue
     - npm install
     
-Obs: caso dê algum erro com as versões
+--Obs: caso dê algum erro com as versões
 Acesse o arquivo package.json e coloque as seguintes versões:
- . dependencies
+
+. dependencies:
     - vue@2.6.14
     - vue-router@3.5.3
 
- . devDependencies:
+. devDependencies:
     - vue-loader@15.9.8
     - vue-template-compiler@2.6.14
